@@ -87,7 +87,7 @@
 <body>
   <div class="content">
     <div class="header">
-      <img src="https://via.placeholder.com/150" alt="张泾平的头像"> <!-- 替换为你的头像 -->
+      <img src="https://via.placeholder.com/150" alt="张泾平的头像"> 
       <h1>张泾平</h1>
       <p>比较热情 · 相当的不专业 · 十分注重但自身并不怎么创新</p>
     </div>
